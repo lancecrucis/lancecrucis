@@ -1,3 +1,3 @@
-<h1><center>Lance Christian C. Crucis</center></h1>
+<h1 style="align=center">Lance Christian C. Crucis</h1>
 
 
