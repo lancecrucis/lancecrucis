@@ -1,27 +1,14 @@
 <h1 align="center">Lance Christian C. Crucis</h1>
 
 <p align="center">
-  <i style="color: gray;">"The desire to learn everything."</i>
+  <i style="color: lightgray;">"The desire to learn everything."</i>
 </p>
 
 ---
 
-<p align="center">
+<p>
   Hi, I'm <b>Lans</b>—a 1st-year Computer Science student who loves learning and figuring things out from scratch.<br>
   I may not know everything yet, but I love learning from my mistakes, exploring new ideas, and improving little by little every day.
-</p>
-
----
-
-<h2 align="center">📬 Reach Out to Me:</h2>
-
-<p align="center">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="your-linkedin-url">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
 </p>
 
 ---
@@ -39,6 +26,4 @@
 
 ---
 
-<p align="center">
-  🚀 <i>Excited to keep learning and growing!</i>
-</p>
+
