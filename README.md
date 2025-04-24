@@ -18,64 +18,41 @@
   </a>
 </p>
 
-
-
-
 <h2>My Tech Stack:</h2>
 
-<table>
-  <tr>
-    <th>🛠Tech</th>
-    <th>Proficiency</th>
-    <th>Badge</th>
-  </tr>
+<p>
+  <strong>HTML5:</strong> Proficient <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <br><br>
 
-  <tr>
-    <td><strong>HTML5</strong></td>
-    <td>Advanced</td>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
-  </tr>
+  🎨 <strong>CSS3:</strong> Proficient <br>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <br><br>
 
-  <tr>
-    <td><strong>CSS3</strong></td>
-    <td>Intermediate</td>
-    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
-  </tr>
+  🌊 <strong>Tailwind CSS:</strong> getting comfortable <br>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <br><br>
 
-  <tr>
-    <td><strong>Tailwind CSS</strong></td>
-    <td>Intermediate</td>
-    <td><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></td>
-  </tr>
+  📦 <strong>JavaScript:</strong> getting comfortable <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <br><br>
 
-  <tr>
-    <td><strong>JavaScript</strong></td>
-    <td>Intermediate</td>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></td>
-  </tr>
+  🖌️ <strong>Figma:</strong> strong grasp <br>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <br><br>
 
-  <tr>
-    <td><strong>Figma</strong></td>
-    <td>Intermediate</td>
-    <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></td>
-  </tr>
+  👀 <strong>C++:</strong> getting comfortable <br>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <br><br>
 
-  <tr>
-    <td><strong>C++</strong></td>
-    <td>Beginner</td>
-    <td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"></td>
-  </tr>
+  🐍 <strong>Python:</strong> getting comfortable <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <br><br>
 
-  <tr>
-    <td><strong>Python</strong></td>
-    <td>Beginner</td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></td>
-  </tr>
+  ☕ <strong>Java:</strong> getting comfortable <br>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <br><br>
 
-  <tr>
-    <td><strong>Java</strong></td>
-    <td>Beginner</td>
-    <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"></td>
-  </tr>
-</table>
-
+  🎬 <strong>Editing (Video/Design):</strong> solid expertise <br>
+  <img src="https://img.shields.io/badge/Editing-FF4C98?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Editing">
+</p>
