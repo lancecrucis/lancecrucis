@@ -21,7 +21,7 @@
 🌊 Tailwind CSS       — Beginner
 📦 JavaScript         — Beginner
 ☕ Java               — Junior
-🗃️ MySQL             — Beginner
+🗃️ MySQL              — Beginner
 👀 C++                — Junior
 🐍 Python             — Beginner
 🖌️ Figma              — Junior
