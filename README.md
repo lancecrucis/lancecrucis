@@ -19,14 +19,14 @@
 <h2>My Tech Stack:</h2>
 
 <pre>
-HTML5               — Intermediate
-CSS3                — Intermediate
-Tailwind CSS        — Getting comfortable
-JavaScript          — Getting comfortable
-C++                 — Still exploring
-Python              — Still exploring
-Java                — Still exploring
-Figma               — Getting comfortable
-Editing             — Confident
+🧱 HTML5              — Intermediate
+🎨 CSS3               — Intermediate
+🌊 Tailwind CSS       — Beginner
+📦 JavaScript         — Beginner
+👀 C++                — Junior
+🐍 Python             — Beginner
+☕ Java               — Junior
+🖌️ Figma              — Junior
+🎬 Editing            — Junior
 </pre>
 
