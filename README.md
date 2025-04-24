@@ -19,7 +19,7 @@
 <h2>My Tech Stack:</h2>
 
 <p>
-  <strong>HTML5:</strong> Intermediate <br>
+  🧱<strong>HTML5:</strong> Intermediate <br>
   🎨 <strong>CSS3:</strong>  Intermediate <br>
   🌊 <strong>Tailwind CSS:</strong> Beginner <br>
   📦 <strong>JavaScript:</strong> Beginner <br>
