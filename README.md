@@ -19,13 +19,13 @@
 <h2>My Tech Stack:</h2>
 
 <p>
-  🧱<strong>HTML5:</strong> Intermediate <br>
-  🎨 <strong>CSS3:</strong>  Intermediate <br>
-  🌊 <strong>Tailwind CSS:</strong> Beginner <br>
-  📦 <strong>JavaScript:</strong> Beginner <br>
-  👀 <strong>C++:</strong> Junior <br>
-  🐍 <strong>Python:</strong> Beginner <br>
-  ☕ <strong>Java:</strong> Junior <br>
-  🖌️ <strong>Figma:</strong> Junior <br>
-  🎬 <strong>Editing (Video/Design):</strong> Junior <br>
-
+  🧱 <strong>HTML5</strong>                    — Intermediate <br>
+  🎨 <strong>CSS3</strong>                     — Intermediate <br>
+  🌊 <strong>Tailwind CSS</strong>             — Beginner     <br>
+  📦 <strong>JavaScript</strong>               — Beginner     <br>
+  👀 <strong>C++</strong>                      — Junior       <br>
+  🐍 <strong>Python</strong>                   — Beginner     <br>
+  ☕ <strong>Java</strong>                     — Junior       <br>
+  🖌️ <strong>Figma</strong>                    — Junior       <br>
+  🎬 <strong>Editing (Video/Design)</strong>   — Junior       <br>
+</p>
