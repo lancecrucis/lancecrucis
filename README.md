@@ -16,15 +16,15 @@
 </p>
 <h2>My Tech Stack:</h2>
 <pre>
-🧱 HTML5              — Intermediate
-🎨 CSS3               — Intermediate
-🌊 Tailwind CSS       — Beginner
-📦 JavaScript         — Beginner
-☕ Java               — Junior
-🗃️ MySQL              — Beginner
-👀 C++                — Junior
-🐍 Python             — Beginner
-🖌️ Figma              — Junior
-🎬 Video Editing      — Junior
+🧱 HTML5             
+🎨 CSS3              
+🌊 Tailwind CSS       
+📦 JavaScript        
+☕ Java               
+🗃️ MySQL              
+👀 C++                
+🐍 Python             
+🖌️ Figma              
+🎬 Video Editing     
 </pre>
 
