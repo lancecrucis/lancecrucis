@@ -9,8 +9,8 @@ I’m a focused fool at heart, not afraid to dive into concepts I don’t fully 
 
 ## 🌐 Socials
 📩 Email: **lancecrucis123@gmail.com**<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/lance-christian-crucis-317144351/))<br>
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/yourprofile](https://www.facebook.com/lance.christian.c.crucis))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/lance-christian-crucis-317144351/))
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/lance.christian.c.crucis)
 
 
 
