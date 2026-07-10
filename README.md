@@ -3,7 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B1F,40:002FA7,100:5C7AEA&height=200&section=header&text=LANCE%20CHRISTIAN%20CRUCIS&fontSize=40&fontColor=E8ECF1&fontAlignY=48&animation=fadeIn" width="100%"/>
 <br/>
 </div>
-## About Me
+
+### About Me
 
 Second-year **Computer Science** student at **Cavite State University, Silang Campus** (CS-2C), and a student athlete on the badminton court.
 
@@ -19,15 +20,14 @@ Outside of that: building side projects across the MERN stack, editing Valorant 
 <tr>
 <td width="100%">
 
-### Foggy Town
-**A Lord of the Mysteries fan archive, built from scratch**
+### Unofficial Lord of the Mysteries Website
 
-Full fan-site experience: Spline-rendered fog hero, interactive Pathway carousel, tarot reading feature, Firebase-backed guestbook, an AI chatbot guide, and Lenis smooth scrolling — deployed on Vercel.
+A fan-site experience: Spline-rendered fog hero, interactive Pathway carousel, tarot reading feature, Firebase-backed guestbook, an AI chatbot guide, and Lenis smooth scrolling — deployed on Vercel.
 
 `React` `Vite` `Tailwind CSS v4` `Firebase Firestore` `Framer Motion` `Spline` `Botpress`
 
 <!-- Replace with your actual link -->
-[**View Live →**](https://foggytown.vercel.app)
+[**View Live →**](https://unofficial-lord-of-the-mysteries.vercel.app)
 
 </td>
 </tr>
