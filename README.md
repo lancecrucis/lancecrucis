@@ -14,6 +14,7 @@ Currently working as an **AI Training Data Annotator** at **LineWise (YC X25)**
 <table>
 <tr>
 <td width="100%">
+  
 ### Unofficial Lord of the Mysteries Website
   
 A fan-site experience: Spline-rendered fog hero, interactive Pathway carousel, tarot reading feature, Firebase-backed guestbook, an AI chatbot guide, and Lenis smooth scrolling — deployed on Vercel.
@@ -26,8 +27,6 @@ A fan-site experience: Spline-rendered fog hero, interactive Pathway carousel, t
 </td>
 </tr>
 </table>
-
-<br/>
 
 ## Tech Stack
 
@@ -50,22 +49,19 @@ A fan-site experience: Spline-rendered fog hero, interactive Pathway carousel, t
 
 </div>
 
-<br/>
-
 ## Connect
 
 <div align="center">
 
 <!-- Replace each # with your actual profile URL -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C7AEA,50:002FA7,100:020B1F&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121824,50:2A3A5A,100:0A101F&height=120&section=footer" width="100%"/>
 </div>
