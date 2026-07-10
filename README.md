@@ -54,13 +54,11 @@ A fan-site experience: Spline-rendered fog hero, interactive Pathway carousel, t
 <div align="center">
 
 <!-- Replace each # with your actual profile URL -->
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/laanncceeeeee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.tiktok.com/@lancecrucis"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lance-christian-crucis-317144351/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:lancecrucis123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
-
-<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121824,50:2A3A5A,100:0A101F&height=120&section=footer" width="100%"/>
