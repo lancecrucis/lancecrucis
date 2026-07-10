@@ -2,17 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B1F,40:002FA7,100:5C7AEA&height=200&section=header&text=LANCE%20CHRISTIAN%20CRUCIS&fontSize=40&fontColor=E8ECF1&fontAlignY=48&animation=fadeIn" width="100%"/>
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=lancecrucis&label=Profile%20Views&color=002FA7&style=for-the-badge&labelColor=020B1F)
-
 </div>
-
-<br/>
-
-<div align="center">
-
-<br/>
-
 ## About Me
 
 Second-year **Computer Science** student at **Cavite State University, Silang Campus** (CS-2C), and a student athlete on the badminton court.
