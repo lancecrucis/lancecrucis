@@ -1,24 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,40:1C2538,70:4A566F,100:9CA6C0&height=340&section=header&text=LANCE%20CHRISTIAN%20C%20CRUCIS&fontSize=40&fontColor=E8ECF1&fontAlignY=48&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,40:1C2538,70:4A566F,100:9CA6C0&height=260&section=header&text=LANCE%20CHRISTIAN%20C%20CRUCIS&fontSize=40&fontColor=E8ECF1&fontAlignY=48&animation=fadeIn" width="100%"/>
 <br/>
 </div>
 
 ### About Me
 
-Second-year **Computer Science** student at **Cavite State University, Silang Campus** (CS-2C), and a student athlete on the badminton court.
+3rd year **Computer Science** student at **Cavite State University, Silang Campus**
 
-Currently working as an **AI Training Data Annotator** at **LineWise (YC X25)**, annotating egocentric video for the **Human-1M** dataset used to train humanoid robots.
-
-Outside of that: building side projects across the MERN stack, editing Valorant clips, and yes — the fog theme on this page comes from *Lord of the Mysteries*.
-
-<br/>
+Currently working as an **AI Training Data Annotator** at **LineWise (YC X25)**
 
 ## Featured Project
 
 <table>
 <tr>
-<td width="100%">
+<td align="center" style="padding: 32px; background: linear-gradient(135deg, #0A101F 0%, #1C2538 50%, #2A3A5A 100%); border: 1px solid #5A6F8F; border-radius: 16px;">
 
 ### Unofficial Lord of the Mysteries Website
 
