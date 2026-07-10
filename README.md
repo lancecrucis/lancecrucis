@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1A2B,35:1F2E45,65:5A6F8F,100:C5D0E0&height=200&section=header&text=LANCE%20CHRISTIAN%20CRUCIS&fontSize=40&fontColor=E8ECF1&fontAlignY=48&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1F2E,35:2C2F4A,65:5A4F7A,100:B8B0D1&height=200&section=header&text=LANCE%20CHRISTIAN%20CRUCIS&fontSize=40&fontColor=E8ECF1&fontAlignY=48&animation=fadeIn" width="100%"/>
 <br/>
 </div>
 
