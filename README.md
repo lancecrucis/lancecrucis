@@ -14,13 +14,12 @@ Currently working as an **AI Training Data Annotator** at **LineWise (YC X25)**
 <table>
 <tr>
 <td width="100%">
-
 ### Unofficial Lord of the Mysteries Website
-
+  
 A fan-site experience: Spline-rendered fog hero, interactive Pathway carousel, tarot reading feature, Firebase-backed guestbook, an AI chatbot guide, and Lenis smooth scrolling — deployed on Vercel.
-
+  
 `React` `Vite` `Tailwind CSS v4` `Firebase Firestore` `Framer Motion` `Spline` `Botpress`
-
+  
 <!-- Replace with your actual link -->
 [**View Live →**](https://unofficial-lord-of-the-mysteries.vercel.app)
 
@@ -45,33 +44,9 @@ A fan-site experience: Spline-rendered fog hero, interactive Pathway carousel, t
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+<img src="https://img.shields.io/badge/Spline-FF4081?style=for-the-badge&logo=spline&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lancecrucis&show_icons=true&hide_border=true&bg_color=050B18&title_color=5C7AEA&text_color=E8ECF1&icon_color=002FA7&border_color=002FA7&border_radius=8" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lancecrucis&hide_border=true&background=050B18&stroke=5C7AEA&ring=002FA7&fire=5C7AEA&currStreakLabel=5C7AEA&sideLabels=E8ECF1&currStreakNum=E8ECF1&sideNums=E8ECF1&dates=E8ECF1&border_radius=8" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lancecrucis&layout=compact&hide_border=true&bg_color=050B18&title_color=5C7AEA&text_color=E8ECF1&border_color=002FA7&border_radius=8" width="48%"/>
-
-</div>
-
-<br/>
-
-## Contribution Snake
-
-<div align="center">
-
-<!-- Requires the GitHub Action in .github/workflows/snake.yml — see setup notes -->
-<img src="https://raw.githubusercontent.com/lancecrucis/lancecrucis/output/github-contribution-grid-snake-blue.svg" width="100%"/>
 
 </div>
 
