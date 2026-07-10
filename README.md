@@ -7,14 +7,13 @@
 ### About Me
 
 3rd year **Computer Science** student at **Cavite State University, Silang Campus**
-
 Currently working as an **AI Training Data Annotator** at **LineWise (YC X25)**
 
 ## Featured Project
 
 <table>
 <tr>
-<td align="center" style="padding: 32px; background: linear-gradient(135deg, #0A101F 0%, #1C2538 50%, #2A3A5A 100%); border: 1px solid #5A6F8F; border-radius: 16px;">
+<td width="100%">
 
 ### Unofficial Lord of the Mysteries Website
 
