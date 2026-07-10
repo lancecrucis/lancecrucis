@@ -1,9 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B1F,40:002FA7,100:5C7AEA&height=200&section=header&text=LANCE%20CHRISTIAN%20CRUCIS&fontSize=40&fontColor=E8ECF1&fontAlignY=48&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=21&duration=3500&pause=1200&color=6E8CC0&center=true&vCenter=true&width=700&lines=BS+Computer+Science+%C2%B7+Cavite+State+University;Data+Annotator+%40+LineWise+(YC+X25);Full+Stack+Developer+%C2%B7+MERN+%2B+Python+%2B+Firebase;Currently+building%3A+Foggy+Town" alt="Typing SVG" />
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lancecrucis&label=Profile%20Views&color=002FA7&style=for-the-badge&labelColor=020B1F)
@@ -13,10 +10,6 @@
 <br/>
 
 <div align="center">
-
-*&ldquo;In the fog, one does not lose their way &mdash; one finds a new one.&rdquo;*
-
-</div>
 
 <br/>
 
