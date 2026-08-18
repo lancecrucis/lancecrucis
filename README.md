@@ -7,7 +7,7 @@
 ### About Me
 
 3rd year **Computer Science** student at **Cavite State University, Silang Campus**
-Currently working as an **AI Training Data Annotator** at **LineWise (YC X25)**
+worked as an **AI Training Data Annotator** at **LineWise (YC X25)**
 
 ## Featured Project
 
