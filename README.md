@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,40:1C2538,70:4A566F,100:9CA6C0&height=220&section=header&text=LANCE%20CHRISTIAN%20C%20CRUCIS&fontSize=40&fontColor=E8ECF1&fontAlignY=48&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1929,40:1565C0,70:42A5F5,100:90CAF9&height=220&section=header&text=LANCE%20CHRISTIAN%20C%20CRUCIS&fontSize=40&fontColor=E3F2FD&fontAlignY=38&animation=fadeIn&desc=3rd+Year+BS+Computer+Science+%C2%B7+Cavite+State+University&descAlignY=58&descSize=16&descColor=BBDEFB" width="100%"/>
 <br/>
 </div>
 
@@ -14,19 +14,33 @@ Currently working as an **AI Training Data Annotator** at **LineWise (YC X25)**
 <table>
 <tr>
 <td width="100%">
-  
+
+### FlashLearn (Lancelet)
+**A multi-user flashcard study app**
+
+A full-featured study platform with auth, flashcard sets, import, study mode with shuffle, test mode with scoring, progress tracking, and Supabase-powered backend — clean, minimal, fast.
+
+`React` `Vite` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL`
+
+[**View Live →**](https://lancelet.vercel.app)
+</td>
+</tr>
+<tr>
+<td width="100%">
+
 ### Unofficial Lord of the Mysteries Website
-  
-A fan-site experience: Spline-rendered fog hero, interactive Pathway carousel, tarot reading feature, Firebase-backed guestbook, an AI chatbot guide, and Lenis smooth scrolling — deployed on Vercel.
-  
+**A fan-site experience built from scratch**
+
+Spline-rendered fog hero, interactive Pathway carousel, tarot reading feature, Firebase-backed guestbook, AI chatbot guide, and Lenis smooth scrolling — all deployed on Vercel.
+
 `React` `Vite` `Tailwind CSS v4` `Firebase Firestore` `Framer Motion` `Spline` `Botpress`
-  
-<!-- Replace with your actual link -->
+
 [**View Live →**](https://unofficial-lord-of-the-mysteries.vercel.app)
 
 </td>
 </tr>
 </table>
+<br/>
 
 ## Tech Stack
 
@@ -61,5 +75,5 @@ A fan-site experience: Spline-rendered fog hero, interactive Pathway carousel, t
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121824,50:2A3A5A,100:0A101F&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1929,50:1565C0,100:90CAF9&height=120&section=footer" width="100%"/>
 </div>
