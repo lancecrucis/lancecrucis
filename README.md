@@ -9,6 +9,8 @@
 3rd year **Computer Science** student at **Cavite State University, Silang Campus**
 worked as an **AI Training Data Annotator** at **LineWise (YC X25)**
 
+### My Portfolio:  [**https://lance-crucis.vercel.app**](https://lance-crucis.vercel.app)
+
 ## Featured Project
 
 <table>
