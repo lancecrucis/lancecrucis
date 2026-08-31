@@ -20,7 +20,7 @@ worked as an **AI Training Data Annotator** at **LineWise (YC X25)**
 ### FlashLearn (Lancelet)
 **A multi-user flashcard study app**
 
-A full-featured study platform with auth, flashcard sets, import, study mode with shuffle, test mode with scoring, progress tracking, and Supabase-powered backend — clean, minimal, fast.
+A full-featured study platform with auth, flashcard sets, import, study mode with shuffle, test mode with scoring, progress tracking, and Supabase-powered backend
 
 `React` `Vite` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL`
 
@@ -33,7 +33,7 @@ A full-featured study platform with auth, flashcard sets, import, study mode wit
 ### Unofficial Lord of the Mysteries Website
 **A fan-site experience built from scratch**
 
-Spline-rendered fog hero, interactive Pathway carousel, tarot reading feature, Firebase-backed guestbook, AI chatbot guide, and Lenis smooth scrolling — all deployed on Vercel.
+Spline-rendered fog hero, interactive Pathway carousel, tarot reading feature, Firebase-backed guestbook, AI chatbot guide, and Lenis smooth scrolling
 
 `React` `Vite` `Tailwind CSS v4` `Firebase Firestore` `Framer Motion` `Spline` `Botpress`
 
