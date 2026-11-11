@@ -10,7 +10,7 @@
 worked as an **AI Training Data Annotator** at **LineWise (YC X25)**
 
 ### My Portfolio:  [https://www.lancecrucis.me)
-
+<!--
 ## Featured Project
 
 <table>
@@ -43,7 +43,7 @@ Spline-rendered fog hero, interactive Pathway carousel, tarot reading feature, F
 </tr>
 </table>
 <br/>
-
+-->
 ## Tech Stack
 
 <div align="center">
